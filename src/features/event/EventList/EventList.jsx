@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import EventListItem from './EventListItem';
+import moment from 'moment';
 
 class EventList extends Component {
   render() {
